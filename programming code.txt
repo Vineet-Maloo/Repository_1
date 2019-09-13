@@ -1,0 +1,7 @@
+system.config,
+system.Azure.
+
+Public static void main(){
+This is the programme file
+
+}
